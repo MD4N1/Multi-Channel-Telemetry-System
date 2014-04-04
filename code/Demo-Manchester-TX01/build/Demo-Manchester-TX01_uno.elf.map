@@ -1,0 +1,683 @@
+Archive member included because of file (symbol)
+
+E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (main)
+E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                              build\Demo-Manchester-TX01.o (delay)
+E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                              build\Demo-Manchester-TX01.o (analogRead)
+E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                              build\Demo-Manchester-TX01.o (pinMode)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              build\Demo-Manchester-TX01.o (__do_copy_data)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              build\Demo-Manchester-TX01.o (__do_clear_bss)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                              build\Manchester.o (__do_global_ctors)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o) (__tablejump__)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 build\Demo-Manchester-TX01.o
+ .data          0x00000000        0x0 build\Demo-Manchester-TX01.o
+ .bss           0x00000000        0x0 build\Demo-Manchester-TX01.o
+ .text          0x00000000        0x0 build\Manchester.o
+ .data          0x00000000        0x0 build\Manchester.o
+ .bss           0x00000000        0x0 build\Manchester.o
+ .text._ZN10ManchesterC2Ev
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10ManchesterC1Ev
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester22workAround1MhzTinyCoreEh
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester13decodeMessageEjRhS0_
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester17beginReceiveArrayEhPh
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester12beginReceiveEv
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester15receiveCompleteEv
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester10getMessageEv
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester11stopReceiveEv
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_BeginReceive
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_BeginReceiveBytes
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_StopReceive
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_ReceiveComplete
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_GetMessage
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_SetRxPin
+                0x00000000        0x0 build\Manchester.o
+ .text.MANRX_SetupReceive
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester8setRxPinEh
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester12setupReceiveEhh
+                0x00000000        0x0 build\Manchester.o
+ .text._ZN10Manchester5setupEhhh
+                0x00000000        0x0 build\Manchester.o
+ .text          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+ .text.millis   0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+ .text.analogReference
+                0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+ .text.analogWrite
+                0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD build\Demo-Manchester-TX01.o
+LOAD build\Manchester.o
+LOAD E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/lib_uno_16.a
+LOAD E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x904
+ *(.vectors)
+ .vectors       0x00000000       0x68 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000068       0x5a E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                0x00000068                port_to_mode_PGM
+                0x00000086                digital_pin_to_port_PGM
+                0x0000009a                digital_pin_to_bit_mask_PGM
+                0x00000072                port_to_output_PGM
+                0x0000007c                port_to_input_PGM
+                0x000000ae                digital_pin_to_timer_PGM
+                0x000000c2                . = ALIGN (0x2)
+                0x000000c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 build\Manchester.o
+                0x000000c4                __ctors_end = .
+                0x000000c4                __dtors_start = .
+ *(.dtors)
+                0x000000c4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c4        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x000000c4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c4        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d0       0x16 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x000000d0                __do_copy_data
+ .init4         0x000000e6       0x10 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x000000e6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000f6       0x16 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                0x000000f6                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000010c        0x8 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000114        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000114                __vector_22
+                0x00000114                __vector_1
+                0x00000114                __vector_24
+                0x00000114                __vector_12
+                0x00000114                __bad_interrupt
+                0x00000114                __vector_6
+                0x00000114                __vector_3
+                0x00000114                __vector_23
+                0x00000114                __vector_25
+                0x00000114                __vector_11
+                0x00000114                __vector_13
+                0x00000114                __vector_17
+                0x00000114                __vector_19
+                0x00000114                __vector_5
+                0x00000114                __vector_4
+                0x00000114                __vector_9
+                0x00000114                __vector_2
+                0x00000114                __vector_21
+                0x00000114                __vector_15
+                0x00000114                __vector_8
+                0x00000114                __vector_14
+                0x00000114                __vector_10
+                0x00000114                __vector_18
+                0x00000114                __vector_20
+                0x00000118                . = ALIGN (0x2)
+ *(.text.*)
+ .text.loop     0x00000118       0x54 build\Demo-Manchester-TX01.o
+                0x00000118                loop
+ .text.setup    0x0000016c       0x20 build\Demo-Manchester-TX01.o
+                0x0000016c                setup
+ .text._ZN10Manchester13encodeMessageEhh
+                0x0000018c       0x30 build\Manchester.o
+                0x0000018c                Manchester::encodeMessage(unsigned char, unsigned char)
+ .text._Z9AddManBitPjPhS0_S0_h
+                0x000001bc       0x7a build\Manchester.o
+                0x000001bc                AddManBit(unsigned int*, unsigned char*, unsigned char*, unsigned char*, unsigned char)
+ .text._GLOBAL__I__ZN10ManchesterC2Ev
+                0x00000236        0x6 build\Manchester.o
+ .text.__vector_7
+                0x0000023c      0x18a build\Manchester.o
+                0x0000023c                __vector_7
+ .text._ZN10Manchester8setTxPinEh
+                0x000003c6        0xe build\Manchester.o
+                0x000003c6                Manchester::setTxPin(unsigned char)
+ .text._ZN10Manchester13setupTransmitEhh
+                0x000003d4       0x34 build\Manchester.o
+                0x000003d4                Manchester::setupTransmit(unsigned char, unsigned char)
+ .text._ZN10Manchester7sendOneEv
+                0x00000408       0x34 build\Manchester.o
+                0x00000408                Manchester::sendOne()
+ .text._ZN10Manchester8sendZeroEv
+                0x0000043c       0x34 build\Manchester.o
+                0x0000043c                Manchester::sendZero()
+ .text._ZN10Manchester13transmitArrayEhPh
+                0x00000470       0xae build\Manchester.o
+                0x00000470                Manchester::transmitArray(unsigned char, unsigned char*)
+ .text._ZN10Manchester8transmitEj
+                0x0000051e       0x24 build\Manchester.o
+                0x0000051e                Manchester::transmit(unsigned int)
+ .text.main     0x00000542       0x1e E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+                0x00000542                main
+ .text.__vector_16
+                0x00000560       0x90 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x00000560                __vector_16
+ .text.micros   0x000005f0       0x4c E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x000005f0                micros
+ .text.delay    0x0000063c       0x4c E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x0000063c                delay
+ .text.delayMicroseconds
+                0x00000688       0x14 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x00000688                delayMicroseconds
+ .text.init     0x0000069c       0x76 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x0000069c                init
+ .text.analogRead
+                0x00000712       0x44 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                0x00000712                analogRead
+ .text.pinMode  0x00000756       0x7e E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                0x00000756                pinMode
+ .text.turnOffPWM
+                0x000007d4       0x5a E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.digitalWrite
+                0x0000082e       0x66 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                0x0000082e                digitalWrite
+ .text.digitalRead
+                0x00000894       0x60 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                0x00000894                digitalRead
+ .text.libgcc   0x000008f4        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                0x000008f8                __tablejump__
+                0x000008f4                __tablejump2__
+                0x00000900                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000900        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00000900                exit
+                0x00000900                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000900        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000904                _etext = .
+
+.data           0x00800100        0x8 load address 0x00000904
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.moo      0x00800100        0x1 build\Demo-Manchester-TX01.o
+                0x00800100                moo
+ .data._ZL7rx_mode
+                0x00800101        0x1 build\Manchester.o
+ .data._ZL5RxPin
+                0x00800102        0x1 build\Manchester.o
+ .data._ZL7rx_data
+                0x00800103        0x2 build\Manchester.o
+ .data._ZL11rx_maxBytes
+                0x00800105        0x1 build\Manchester.o
+ .data.analog_reference
+                0x00800106        0x1 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                0x00800106                analog_reference
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800108                . = ALIGN (0x2)
+ *fill*         0x00800107        0x1 00
+                0x00800108                _edata = .
+                0x00800108                PROVIDE (__data_end, .)
+
+.bss            0x00800108       0x1d
+                0x00800108                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.transmit_data
+                0x00800108        0x1 build\Demo-Manchester-TX01.o
+                0x00800108                transmit_data
+ .bss.man       0x00800109        0x7 build\Manchester.o
+                0x00800109                man
+ .bss._ZL8rx_count
+                0x00800110        0x1 build\Manchester.o
+ .bss._ZL9rx_sample
+                0x00800111        0x2 build\Manchester.o
+ .bss._ZL14rx_last_sample
+                0x00800113        0x2 build\Manchester.o
+ .bss._ZL13rx_sync_count
+                0x00800115        0x1 build\Manchester.o
+ .bss._ZL10rx_manBits
+                0x00800116        0x2 build\Manchester.o
+ .bss._ZL8rx_numMB
+                0x00800118        0x1 build\Manchester.o
+ .bss._ZL10rx_curByte
+                0x00800119        0x1 build\Manchester.o
+ .bss._ZL15rx_default_data
+                0x0080011a        0x2 build\Manchester.o
+ .bss.timer0_overflow_count
+                0x0080011c        0x4 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x0080011c                timer0_overflow_count
+ .bss.timer0_millis
+                0x00800120        0x4 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                0x00800120                timer0_millis
+ .bss.timer0_fract
+                0x00800124        0x1 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+ *(COMMON)
+                0x00800125                PROVIDE (__bss_end, .)
+                0x00000904                __data_load_start = LOADADDR (.data)
+                0x0000090c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800125        0x0
+                0x00800125                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800125                PROVIDE (__noinit_end, .)
+                0x00800125                _end = .
+                0x00800125                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(build\Demo-Manchester-TX01_uno.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+AddManBit(unsigned int*, unsigned char*, unsigned char*, unsigned char*, unsigned char) build\Manchester.o
+MANRX_BeginReceive                                build\Manchester.o
+MANRX_BeginReceiveBytes                           build\Manchester.o
+MANRX_GetMessage                                  build\Manchester.o
+MANRX_ReceiveComplete                             build\Manchester.o
+MANRX_SetRxPin                                    build\Manchester.o
+MANRX_SetupReceive                                build\Manchester.o
+MANRX_StopReceive                                 build\Manchester.o
+Manchester::Manchester()                          build\Manchester.o
+Manchester::Manchester()                          build\Manchester.o
+Manchester::beginReceive()                        build\Manchester.o
+Manchester::beginReceiveArray(unsigned char, unsigned char*) build\Manchester.o
+Manchester::decodeMessage(unsigned int, unsigned char&, unsigned char&) build\Manchester.o
+Manchester::encodeMessage(unsigned char, unsigned char) build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+Manchester::getMessage()                          build\Manchester.o
+Manchester::receiveComplete()                     build\Manchester.o
+Manchester::sendOne()                             build\Manchester.o
+Manchester::sendZero()                            build\Manchester.o
+Manchester::setRxPin(unsigned char)               build\Manchester.o
+Manchester::setTxPin(unsigned char)               build\Manchester.o
+Manchester::setup(unsigned char, unsigned char, unsigned char) build\Manchester.o
+Manchester::setupReceive(unsigned char, unsigned char) build\Manchester.o
+Manchester::setupTransmit(unsigned char, unsigned char) build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+Manchester::stopReceive()                         build\Manchester.o
+Manchester::transmit(unsigned int)                build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+Manchester::transmitArray(unsigned char, unsigned char*) build\Manchester.o
+Manchester::workAround1MhzTinyCore(unsigned char) build\Manchester.o
+__bad_interrupt                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__bss_end                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__ctors_end                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__data_end                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__do_clear_bss                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                                                  build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+__do_copy_data                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                                                  build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+__do_global_ctors                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                                                  build\Manchester.o
+__heap_end                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__init                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__stack                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__tablejump2__                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__vector_1                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        build\Manchester.o
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+_exit                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+analogRead                                        E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                                                  build\Demo-Manchester-TX01.o
+analogReference                                   E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+analogWrite                                       E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+analog_reference                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+delay                                             E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                                                  build\Demo-Manchester-TX01.o
+delayMicroseconds                                 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                                                  build\Manchester.o
+digitalRead                                       E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  build\Manchester.o
+digitalWrite                                      E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                                                  build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+digital_pin_to_bit_mask_PGM                       E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+digital_pin_to_port_PGM                           E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+digital_pin_to_timer_PGM                          E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+exit                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+init                                              E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+loop                                              build\Demo-Manchester-TX01.o
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+main                                              E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+man                                               build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+micros                                            E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+millis                                            E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+moo                                               build\Demo-Manchester-TX01.o
+pinMode                                           E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_analog.c.o)
+                                                  build\Manchester.o
+                                                  build\Demo-Manchester-TX01.o
+port_to_input_PGM                                 E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_mode_PGM                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_output_PGM                                E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring_digital.c.o)
+serialEventRun()                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+setup                                             build\Demo-Manchester-TX01.o
+                                                  E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(main.cpp.o)
+timer0_millis                                     E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+timer0_overflow_count                             E:\Github for wgindows\Multiple Channel Telemetry System\code\Demo-Manchester-TX01\build\/core_uno_16.a(wiring.c.o)
+transmit_data                                     build\Demo-Manchester-TX01.o
